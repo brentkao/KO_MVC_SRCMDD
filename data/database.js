@@ -6,4 +6,3 @@ const connection = mysql.createConnection({
 });
 
 
-
